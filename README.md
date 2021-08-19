@@ -26,3 +26,8 @@ With the help of 0010 cipher, we began to receive accurate data very quickly and
 ### Output - cipher in numbers
 #### Input: ``` Innopolis```
 #### Output: ``` 19 9 12 15 16 15 14 14 9 ```
+
+1. Open Terminal and move to the project folder.
+2. Run python 0010cipher.py for Windows and python3 0010cipher.py for Ubuntu and MacOS.
+3. Enter some string and press Enter.
+4. Enjoy the output result!
